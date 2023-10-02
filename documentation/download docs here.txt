@@ -1,0 +1,3 @@
+In this directory download the documentation of the library of your chouce using the command:
+
+!wget -r -A.html -P <this_directory_name> <library_documentation_website_address>
